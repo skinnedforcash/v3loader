@@ -1,11 +1,6 @@
 {
   "Project Delta": [
-    ["~", "World visuals flickering"],
-    ["~", "ESP Fading & outline issues"],
-    ["+", "Several client visuals"],
-    ["+", "Full Underground"],
-    ["+", "Fake Angles"],
-    ["+", "Fakelag"],
-    ["+", "Fake Position"]
+    ["~", "Lua Exec"],
+    ["~", "Skeletons"],
   ]
 }
