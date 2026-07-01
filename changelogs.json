@@ -2,5 +2,8 @@
   "Project Delta": [
     ["~", "Lua Exec"],
     ["~", "Skeletons"],
+  ],
+  "Fallen": [
+    ["+", "Initial Release"],
   ]
 }
