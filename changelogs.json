@@ -4,7 +4,10 @@
     ["~", "Skeletons"],
   ],
   "Fallen": [
-    ["+", "Initial Release"],
-    ["~", "Fixed bypass"],
+    ["+", "Better underground"],
+    ["~", "Wallbang invalids"],
+    ["~", "Bow invalids"],
+    ["~", "Optimized ragebot"],
+    ["~", "Bypass loading priority"],
   ]
 }
