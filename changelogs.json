@@ -4,10 +4,10 @@
     ["~", "Skeletons"],
   ],
   "Fallen": [
-    ["+", "Better underground"],
-    ["~", "Wallbang invalids"],
-    ["~", "Bow invalids"],
+    ["~", "Fixed Target Shift invalids"],
+    ["~", "Lag while modifying viewmodel position"],
+    ["+", "New perfect farm"],
+    ["~", "Fixed instant loot not working"],
     ["~", "Optimized ragebot"],
-    ["~", "Bypass loading priority"],
   ]
 }
