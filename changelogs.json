@@ -4,10 +4,8 @@
     ["~", "Skeletons"],
   ],
   "Fallen": [
-    ["~", "Fixed Target Shift invalids"],
-    ["~", "Lag while modifying viewmodel position"],
-    ["+", "New perfect farm"],
-    ["~", "Fixed instant loot not working"],
-    ["~", "Optimized ragebot"],
+    ["+", "Hitbox Expander"],
+    ["+", "Remove Bow Pullback"],
+    ["+", "Viewmodel Invalids"],
   ]
 }
