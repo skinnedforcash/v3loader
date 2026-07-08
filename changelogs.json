@@ -1,11 +1,10 @@
 {
   "Project Delta": [
-    ["~", "Lua Exec"],
-    ["~", "Skeletons"],
+    ["~", "Fixed anti drown not working"],
+    ["~", "Misc esp sticking + performance"],
   ],
   "Fallen": [
-    ["+", "Hitbox Expander"],
-    ["+", "Remove Bow Pullback"],
-    ["+", "Viewmodel Invalids"],
+    ["+", "Completely new misc ESP"],
+    ["~", "Changes to wallbang origins"],
   ]
 }
