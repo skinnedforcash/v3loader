@@ -1,10 +1,12 @@
 {
   "Project Delta": [
-    ["~", "Fixed anti drown not working"],
-    ["~", "Misc esp sticking + performance"],
+    ["+", "Hitchams"],
+    ["+", "Kill Effect"],
+    ["+", "Hitpart Visualizer"]
   ],
   "Fallen": [
-    ["+", "Completely new misc ESP"],
-    ["~", "Changes to wallbang origins"],
+    ["+", "Hitchams"],
+    ["+", "Kill Effect"],
+    ["+", "Hitpart Visualizer"]
   ]
 }
