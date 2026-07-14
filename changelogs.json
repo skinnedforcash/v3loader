@@ -5,8 +5,10 @@
     ["+", "Hitpart Visualizer"]
   ],
   "Fallen": [
-    ["+", "Hitchams"],
-    ["+", "Kill Effect"],
-    ["+", "Hitpart Visualizer"]
+    ["+", "Auto build bases"],
+    ["+", "Map widget"],
+    ["+", "pSilent 'Spread' Slider"],
+    ["+", "pSilent 'Point Randomization' Slider"],
+    ["~", "Rewrote fallen loader"]
   ]
 }
