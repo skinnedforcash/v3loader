@@ -9,6 +9,9 @@
     ["+", "Map widget"],
     ["+", "pSilent 'Spread' Slider"],
     ["+", "pSilent 'Point Randomization' Slider"],
-    ["~", "Rewrote fallen loader"]
+    ["~", "Rewrote fallen loader"],
+    ["~", "Target Shift Invalids"],
+    ["~", "Rewrote bypass"],
+    ["+", "Reload bar"]
   ]
 }
