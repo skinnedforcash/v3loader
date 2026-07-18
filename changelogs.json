@@ -5,13 +5,15 @@
     ["+", "Hitpart Visualizer"]
   ],
   "Fallen": [
-    ["+", "Auto build bases"],
-    ["+", "Map widget"],
-    ["+", "pSilent 'Spread' Slider"],
-    ["+", "pSilent 'Point Randomization' Slider"],
-    ["~", "Rewrote fallen loader"],
-    ["~", "Target Shift Invalids"],
-    ["~", "Rewrote bypass"],
-    ["+", "Reload bar"]
+    ["+", "Sound ESP"],
+    ["+", "Local Info"],
+    ["+", "Kill aura circle"],
+    ["+", "Weapon Icons"],
+    ["+", "Arm chams"],
+    ["-", "Temporarily removed model sandboxing"],
+    ["-", "Temporarily removed Fakeangles & Fakeduck"],
+    ["~", "Optimized targeting"],
+    ["~", "Fixed respawning bugs involving map widget"],
+    ["~", "Curved tracers now work with Instant Bullet"]
   ]
 }
