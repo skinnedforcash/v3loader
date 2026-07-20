@@ -1,8 +1,9 @@
 {
   "Project Delta": [
-    ["+", "Hitchams"],
-    ["+", "Kill Effect"],
-    ["+", "Hitpart Visualizer"]
+    ["~", "Remove Fall Damage method"],
+    ["~", "Bullets going downwards sometimes"],
+    ["~", "Bullet TP validation"],
+    ["~", "Optimized"],
   ],
   "Fallen": [
     ["+", "Sound ESP"],
