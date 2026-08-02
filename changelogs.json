@@ -1,20 +1,8 @@
 {
   "Project Delta": [
-    ["~", "Remove Fall Damage method"],
-    ["~", "Bullets going downwards sometimes"],
-    ["~", "Bullet TP validation"],
     ["~", "Optimized"],
   ],
   "Fallen": [
-    ["+", "Sound ESP"],
-    ["+", "Local Info"],
-    ["+", "Kill aura circle"],
-    ["+", "Weapon Icons"],
-    ["+", "Arm chams"],
-    ["-", "Temporarily removed model sandboxing"],
-    ["-", "Temporarily removed Fakeangles & Fakeduck"],
-    ["~", "Optimized targeting"],
-    ["~", "Fixed respawning bugs involving map widget"],
-    ["~", "Curved tracers now work with Instant Bullet"]
+    ["+", "underground changes"]
   ]
 }
