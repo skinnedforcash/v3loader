@@ -1,7 +1,38 @@
 {
+  "Criminality": {
+    "updates": [
+      {
+        "date": "08/28/2026",
+        "entries": [
+          ["-", "removed grenade helper"],
+          ["-", "removed spoof state"],
+          ["-", "removed \"anti ragebot\""],
+          ["-", "removed auto refill"],
+          ["~", "fixed kill aura breaking if you equip a gun"],
+          ["~", "fixed way too many skinchanger optimisation/general issues"],
+          ["+", "added more skins to the skinchanger"],
+          ["~", "changed and fixed so many other things"],
+          ["~", "improved scanning majorly"],
+          ["~", "fixed silent aim bugs"],
+          ["~", "optimized overall"]
+        ]
+      },
+      {
+        "title": "global stuff",
+        "entries": [
+          ["+", "new playerlist"],
+          ["+", "new loader"],
+          ["+", "new appearance window"],
+          ["~", "several qol things and bug fixes"]
+        ]
+      }
+    ]
+  },
+
   "Project Delta": [
-    ["~", "Optimized"],
+    ["~", "Optimized"]
   ],
+
   "Fallen": [
     ["+", "underground changes"]
   ]
