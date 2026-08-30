@@ -22,7 +22,6 @@
         "entries": [
           ["+", "new playerlist"],
           ["+", "new loader"],
-          ["+", "new appearance window"],
           ["~", "several qol things and bug fixes"]
         ]
       }
