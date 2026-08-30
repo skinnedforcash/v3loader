@@ -27,13 +27,5 @@
         ]
       }
     ]
-  },
-
-  "Project Delta": [
-    ["~", "Optimized"]
-  ],
-
-  "Fallen": [
-    ["+", "underground changes"]
-  ]
+  }
 }
