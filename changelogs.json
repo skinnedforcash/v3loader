@@ -23,6 +23,7 @@
           ["+", "new playerlist"],
           ["+", "new loader"],
           ["~", "several qol things and bug fixes"]
+          ["~", "playerlist relations save with config"]
         ]
       }
     ]
